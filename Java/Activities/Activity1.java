@@ -1,4 +1,4 @@
-package Activity1;
+package activities;
 
 public class Activity1 extends Car {
 
